@@ -49,7 +49,7 @@
         return NULL;
     }
 ## Implementation Result
-![PCP_snapshot](https://github.com/YooJiHyeok/OSS-final/blob/main/PCP_snapshot.png)
+![PCP_snapshot](https://github.com/YooJiHyeok/Producer-Consumer-Problem/blob/main/PCP_snapshot.png)
 음수와 30이상의 값이 출력되지 않는 모습을 볼 수 있다. 
 
 ## Evaluation
